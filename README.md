@@ -8,3 +8,4 @@ This repository is for guided projects completed under Dataquest's curriculum. A
 | Python for Data Science - Intermediate | [Exploring Hacker News Posts](https://github.com/kulraween/Dataquest/blob/main/Exploring%20Hacker%20News%20Posts.ipynb) |
 | Pandas and NumPy Fundamentals | [Exploring eBay Car Sales Data](https://github.com/kulraween/Dataquest/blob/main/Exploring%20eBay%20Car%20Sales%20Data.ipynb) |
 | Data Visualization Fundamentals | [Finding Heavy Traffic Indicators on I-94](https://github.com/kulraween/Dataquest/blob/main/Heavy%20Traffic%20Indicators%20on%20I-94.ipynb) |
+| Storytelling Data Visualization and Information Design | [Storytelling Data Visualization on Exchange Rates](https://github.com/kulraween/Dataquest/blob/main/Story%20Telling%20Visualization%20on%20Exchange%20rates.ipynb) |
