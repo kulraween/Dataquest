@@ -12,4 +12,4 @@ This repository is for guided projects completed under Dataquest's curriculum. A
 | Data Cleaning and Analysis | [Clean and Analyze Employee Exit Survey](https://github.com/kulraween/Dataquest/blob/main/Clean%20and%20Analyze%20Employee%20Exit%20Survey.ipynb) |
 | Data Cleaning Project Walkthrough (1) | [Analyzing NYC High School Data](https://github.com/kulraween/Dataquest/blob/main/Schools.ipynb) |
 | Data Cleaning Project Walkthrough (2) | [Star Wars Survey](https://github.com/kulraween/Dataquest/blob/main/StarWars%20Survey.ipynb) |
-| SQL Fundamentals | [Analyzing CIA factbook data using SQL](https://github.com/kulraween/Dataquest/blob/main/Analyzing%20CIA%20Factbook%20data.ipynb) |
+| SQL Fundamentals | [Analyzing CIA factbook data using SQL](https://github.com/kulraween/Dataquest/blob/main/Analyzing%20CIA%20Factbook%20data/Analyzing%20CIA%20Factbook%20data.ipynb) |
