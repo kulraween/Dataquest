@@ -11,3 +11,4 @@ This repository is for guided projects completed under Dataquest's curriculum. A
 | Storytelling Data Visualization and Information Design | [Storytelling Data Visualization on Exchange Rates](https://github.com/kulraween/Dataquest/blob/main/Story%20Telling%20Visualization%20on%20Exchange%20rates.ipynb) |
 | Data Cleaning Project Walkthrough (1) | [Analyzing NYC High School Data](https://github.com/kulraween/Dataquest/blob/main/Schools.ipynb) |
 | Data Cleaning Project Walkthrough (2) | [Star Wars Survey](https://github.com/kulraween/Dataquest/blob/main/StarWars%20Survey.ipynb) |
+| SQL Fundamentals | [Analyzing CIA factbook data using SQL](https://github.com/kulraween/Dataquest/blob/main/Analyzing%20CIA%20Factbook%20data.ipynb) |
