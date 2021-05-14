@@ -13,3 +13,4 @@ This repository is for guided projects completed under Dataquest's curriculum. A
 | Data Cleaning Project Walkthrough (1) | [Analyzing NYC High School Data](https://github.com/kulraween/Dataquest/blob/main/Schools.ipynb) |
 | Data Cleaning Project Walkthrough (2) | [Star Wars Survey](https://github.com/kulraween/Dataquest/blob/main/StarWars%20Survey.ipynb) |
 | SQL Fundamentals | [Analyzing CIA factbook data using SQL](https://github.com/kulraween/Dataquest/blob/main/Analyzing%20CIA%20Factbook%20data/Analyzing%20CIA%20Factbook%20data.ipynb) |
+| Intermediate SQL for Data Analysis | [Answering Business Questions using SQL](https://github.com/kulraween/Dataquest/blob/main/Answering%20Business%20Questions%20using%20SQL/Answering%20Business%20Questions%20using%20SQL.ipynb) |
